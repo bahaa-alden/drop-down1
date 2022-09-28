@@ -41,8 +41,8 @@
   animation: mymove 1s 1;
 }
 footer {
-      position: absolute;
-    bottom: 0;
+  position: absolute;
+  bottom: 0;
   width: 100vw;
   padding: 15px;
   color: white;
