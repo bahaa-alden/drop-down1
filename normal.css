@@ -156,3 +156,7 @@ a {
 .mobile {
   display: none;
 }
+footer {
+  position: absolute;
+  bottom: 0;
+}
